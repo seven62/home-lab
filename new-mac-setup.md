@@ -52,6 +52,14 @@ I use the following browser extensions:
 > [reference](https://www.iterm2.com/documentation-status-bar.html)
 
 
+### Vim
+
+1. Install vim-plug
+  - curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
+    https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+1. Copy over dotfiles/.vimrc
+
+
 ### System Settings
 
 To get the Home folder in the finder, press CMD + SHIFT + H and drag the home folder to the sidebar.
